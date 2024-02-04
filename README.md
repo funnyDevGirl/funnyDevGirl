@@ -1,4 +1,18 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alina.
+==============================================================================================================================
+
+I am Java Backend Developer.
+----------------------------
+
+You can contact me t.me : @Alishka_dev. 
+----------------------------
+I am open to job offers!
+
+*   🌍  I'm based in Saint-Petersburg
+*   ✉️  You can contact me at [alishka.tarasova@gmail.com](mailto:alishka.tarasova@gmail.com)
+
+
+<!--### Hi there 👋
 
 #### My name is Alina, I am Java Backend Developer.  
 
