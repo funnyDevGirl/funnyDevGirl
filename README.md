@@ -1,4 +1,12 @@
 ### Hi there 👋
+### Hi, dear friend!  👋
+#### My name is Alina, I am Java Backend Developer.
+
+#### You can contact me:
+#### e-mail: alishka.tarasova@gmail.com,
+#### telegram : [@Alishka_dev](https://t.me/Alishka_dev).
+
+#### I am open to cooperation!
 
 <!--
 **funnyDevGirl/funnyDevGirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
