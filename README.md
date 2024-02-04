@@ -3,14 +3,16 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 My name is Alina.
 I am Java Backend Developer.
 ----------------------------
-#### ✉️ You can contact me:
+#### ✉️  You can contact me:
 #### e-mail: alishka.tarasova@gmail.com
 #### telegram: [@Alishka_dev](https://t.me/Alishka_dev)  
 
-#### 🤝 I'm open to collaborating and job offers!
+#### 👯  I'm open to collaborating and job offers!  🤝
 
 *   🌍  I'm based in Saint-Petersburg
-*   🖥️  See my portfolio at [Brain_Games](http://github.com/funnyDevGirl/Brain_Games), [Difference_Calculator](https://github.com/funnyDevGirl/Difference_Calculator), [Data_Validator](https://github.com/funnyDevGirl/Data_Validator)
+*   🖥️  See my portfolio at [Brain Games](http://github.com/funnyDevGirl/Brain_Games), [Difference Calculator](https://github.com/funnyDevGirl/Difference_Calculator), [Data Validator](https://github.com/funnyDevGirl/Data_Validator)
+*   🔭 I’m currently working on new Project "Page Analyzer"
+*   🌱 I’m currently learning Web technologies and String Boot.
 
 
 <!--### Hi there 👋
