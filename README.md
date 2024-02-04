@@ -1,11 +1,11 @@
 <!-- ### Hi there 👋 -->
 ### Hi, dear friend!  👋
-#### My name is Alina, I am Java Backend Developer.
-#### 
+#### My name is Alina, I am Java Backend Developer.  
+
 #### You can contact me:
-#### e-mail: alishka.tarasova@gmail.com,
-#### telegram : [@Alishka_dev](https://t.me/Alishka_dev).
-#### 
+#### e-mail: alishka.tarasova@gmail.com
+#### telegram : [@Alishka_dev](https://t.me/Alishka_dev)  
+
 #### I am open to job offers!
 
 <!--
