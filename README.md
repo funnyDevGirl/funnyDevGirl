@@ -1,5 +1,5 @@
-<!-- ### Hi there 👋 -->
-### Hi, dear friend!  👋
+### Hi there 👋
+
 #### My name is Alina, I am Java Backend Developer.  
 
 #### You can contact me:
