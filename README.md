@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alina.
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==============================================================================================================================
-
+My name is Alina.
 I am Java Backend Developer.
 ----------------------------
 
-You can contact me t.me : @Alishka_dev. 
+You can contact me t.me : @Alishka_dev 
 ----------------------------
 I am open to job offers!
 
