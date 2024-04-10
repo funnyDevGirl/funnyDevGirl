@@ -11,7 +11,7 @@ I am a beginner Java Backend Developer.
 
 *   🌍  I'm based in Saint-Petersburg
 *   🖥️  See my portfolio at [Brain Games](http://github.com/funnyDevGirl/Brain_Games), [Difference Calculator](https://github.com/funnyDevGirl/Difference_Calculator), [Data Validator](https://github.com/funnyDevGirl/Data_Validator), [Page Analyzer](https://github.com/funnyDevGirl/Page-Analyzer)
-*   🔭 I’m currently working on new Project "Page Analyzer"
+*   🔭 I’m currently working on new Project "Task Manager"
 *   🌱 I’m currently learning Web technologies and Spring Boot.
 
 ### Skills 
