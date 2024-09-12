@@ -4,7 +4,7 @@ My name is Alina.
 I am Java Backend Developer.
 ----------------------------
 #### ✉️  You can contact me:
-#### e-mail: alishka.tarasova@gmail.com
+#### e-mail: tarasova.alishka@yandex.ru
 #### telegram: [@Alishka_dev](https://t.me/Alishka_dev)  
 
 #### 👯  I'm open to collaborating and job offers!  🤝
