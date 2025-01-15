@@ -1,8 +1,9 @@
-Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-==============================================================================================================================
-My name is Alina.
-Java Backend Developer from Saint-Petersburg
-----------------------------
+<div align="center">
+  <h2>Hi there. I'm Alina.<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Animation" width="35"></h2>
+  <h3>Java Backend Developer from Saint-Petersburg</h3>
+</div>
+
+
 #### ✉️  You can contact me:
 #### e-mail: tarasova.alishka@yandex.ru
 #### telegram: [@Alishka_dev](https://t.me/Alishka_dev)  
