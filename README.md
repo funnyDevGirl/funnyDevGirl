@@ -9,13 +9,7 @@ Java Backend Developer from Saint-Petersburg
 
 #### 👯  I'm open to collaborating and job offers!  🤝
 
-  🖥️  See my portfolio at
-*   [Brain Games](http://github.com/funnyDevGirl/Brain_Games)
-*   [Difference Calculator](https://github.com/funnyDevGirl/Difference_Calculator)
-*   [Data Validator](https://github.com/funnyDevGirl/Data_Validator)
-*   [Page Analyzer](https://github.com/funnyDevGirl/Page-Analyzer)
-*   [Task Manager](https://github.com/funnyDevGirl/java-project-99)
-*   [Kitchen Assistant](https://github.com/funnyDevGirl/project-kitchen-assistant)
+  🖥️  See my portfolio at: [Brain Games](http://github.com/funnyDevGirl/Brain_Games) | [Difference Calculator](https://github.com/funnyDevGirl/Difference_Calculator) | [Data Validator](https://github.com/funnyDevGirl/Data_Validator) | [Page Analyzer](https://github.com/funnyDevGirl/Page-Analyzer) | [Task Manager](https://github.com/funnyDevGirl/java-project-99) | [Kitchen Assistant](https://github.com/funnyDevGirl/project-kitchen-assistant)
   
   🌱 I’m currently learning Data Structures and algorithms.
 
