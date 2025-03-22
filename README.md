@@ -10,9 +10,9 @@
 
 #### 👯  I'm open to collaborating and job offers!  🤝
 
-  🖥️  See my portfolio at: [Brain Games](http://github.com/funnyDevGirl/Brain_Games) | [Difference Calculator](https://github.com/funnyDevGirl/Difference_Calculator) | [Data Validator](https://github.com/funnyDevGirl/Data_Validator) | [Page Analyzer](https://github.com/funnyDevGirl/Page-Analyzer) | [Task Manager](https://github.com/funnyDevGirl/java-project-99) | [Kitchen Assistant](https://github.com/funnyDevGirl/project-kitchen-assistant)
+  🖥️  See my portfolio at: [Brain Games](http://github.com/funnyDevGirl/Brain_Games) | [Difference Calculator](https://github.com/funnyDevGirl/Difference_Calculator) | [Data Validator](https://github.com/funnyDevGirl/Data_Validator) | [Page Analyzer](https://github.com/funnyDevGirl/Page-Analyzer) | [Task Manager](https://github.com/funnyDevGirl/java-project-99) | [Kitchen Assistant](https://github.com/funnyDevGirl/project-kitchen-assistant) | [Food And Calories Log] (https://github.com/funnyDevGirl/food-log-project)
   
-  🌱 I’m currently learning Multithreading and the Reactive Stack.
+  🌱 I’m currently learning Multithreading and features of the development of high-load systems.
 
 ### Skills 
 <p align="left">
